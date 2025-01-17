@@ -1,14 +1,21 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-## Getting Started
 ## require package
-{
+```bash
  npm install @radix-ui/themes
- npx shadcn@latest init  
+# and
+ npx shadcn@latest init
+# and
  npm i @tailwindcss/typography
- npm i tailwindcss-animate    
- npm i next-auth@beta 
- npx auth secret   
-}
+# and
+ npm i tailwindcss-animate
+# and
+ npm i next-auth@beta
+# and
+ npx auth secret
+
+```
+## Getting Started
+
 
 require package
 First, run the development server:
